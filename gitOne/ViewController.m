@@ -17,10 +17,6 @@
 - (void)viewDidLoad {
     [super viewDidLoad];
     NSLog(@"/d/d/d/d/d/n66");
-    
-    for (int i=6; i<60; i++) {
-        NSLog(@"df");
-    }
     // Do any additional setup after loading the view from its nib.
 }
 
